@@ -1,0 +1,10 @@
+Task C:
+
+Address of the webpage:
+http://betaweb.csug.rochester.edu/~ashrest2/crd/welcome.html
+
+Contribution of team members (Aman Shrestha ashrest2, Anh Nguyen anguy39):
+Task A:	Both the team members compiled the table attributes from milestone 2. We divided the tables evenly between us and converted them to BCNF (except for one table for which we've given an explanation), then we cross checked each other's work.
+TaskB: Aman worked on finding the correct syntax for create.sql and created 3 tables with it, Anh used it as a template for the remainder of the tables. For load.sql, we switched roles, Anh found the template and completed 3 tables and Aman used it as a template for the rest. The dummy dataset was createdy by Aman. 
+TaskC: Both worked together to figure out how we get the link.
+TaskD: We both referenced the example given to work on this part. Aman worked on adding professor, removing professor, searching professor and viweing professor list. Anh worked on adding department, adding research, and deleting research.
